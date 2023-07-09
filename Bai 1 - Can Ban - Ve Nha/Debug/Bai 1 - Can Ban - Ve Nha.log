@@ -1,0 +1,19 @@
+﻿Build started 27/07/2015 9:22:31 AM.
+     1>Project "C:\Users\NguyenVietNamSon\Desktop\Du Lieu Desktop\KTLT\Buoi 8\KTLT (7-2015) - Buoi 8\Giai Bai Tap Vong Lap\Bai 1 - Can Ban - Ve Nha\Bai 1 - Can Ban - Ve Nha.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\nguyenvietnamson\desktop\du lieu desktop\ktlt\buoi 8\ktlt (7-2015) - buoi 8\giai bai tap vong lap\bai 1 - can ban - ve nha\source.cpp(11): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>c:\users\nguyenvietnamson\desktop\du lieu desktop\ktlt\buoi 8\ktlt (7-2015) - buoi 8\giai bai tap vong lap\bai 1 - can ban - ve nha\source.cpp(22): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\nguyenvietnamson\desktop\du lieu desktop\ktlt\buoi 8\ktlt (7-2015) - buoi 8\giai bai tap vong lap\bai 1 - can ban - ve nha\source.cpp(29): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\nguyenvietnamson\desktop\du lieu desktop\ktlt\buoi 8\ktlt (7-2015) - buoi 8\giai bai tap vong lap\bai 1 - can ban - ve nha\source.cpp(262): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\conio.h(131) : see declaration of 'getch'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\NguyenVietNamSon\Desktop\Du Lieu Desktop\KTLT\Buoi 8\KTLT (7-2015) - Buoi 8\Giai Bai Tap Vong Lap\Debug\Bai 1 - Can Ban - Ve Nha.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\NguyenVietNamSon\Desktop\Du Lieu Desktop\KTLT\Buoi 8\KTLT (7-2015) - Buoi 8\Giai Bai Tap Vong Lap\Debug\Bai 1 - Can Ban - Ve Nha.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\NguyenVietNamSon\Desktop\Du Lieu Desktop\KTLT\Buoi 8\KTLT (7-2015) - Buoi 8\Giai Bai Tap Vong Lap\Debug\Bai 1 - Can Ban - Ve Nha.lib" /MACHINE:X86 Debug\Source.obj
+         Bai 1 - Can Ban - Ve Nha.vcxproj -> C:\Users\NguyenVietNamSon\Desktop\Du Lieu Desktop\KTLT\Buoi 8\KTLT (7-2015) - Buoi 8\Giai Bai Tap Vong Lap\Debug\Bai 1 - Can Ban - Ve Nha.exe
+     1>Done Building Project "C:\Users\NguyenVietNamSon\Desktop\Du Lieu Desktop\KTLT\Buoi 8\KTLT (7-2015) - Buoi 8\Giai Bai Tap Vong Lap\Bai 1 - Can Ban - Ve Nha\Bai 1 - Can Ban - Ve Nha.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.72
